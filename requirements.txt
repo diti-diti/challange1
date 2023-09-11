@@ -1,5 +1,1 @@
 pandas==1.5.3
-<<<<<<< HEAD
-=======
-##change 
->>>>>>> diti-test-2
